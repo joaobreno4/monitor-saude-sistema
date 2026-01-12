@@ -1,111 +1,15 @@
 ======================================================================
 RELATÓRIO: MonitorSys (production)
-Data: 2026-01-12 | Hora: 13:55:45
+Data: 2026-01-12 | Hora: 14:51:26
 Hostname: devops-debian
 ======================================================================
 
 === [CPU] ===
-Load Average: 0,25, 0,09, 0,02
-
-=== [MEMÓRIA] ===
-Mem.:          3,8Gi       568Mi       2,6Gi       1,7Mi       913Mi       3,2Gi
-Swap:          1,1Gi          0B       1,1Gi
-
-=== [DISCO] ===
-Sist. Arq.      Tam. Usado Disp. Uso% Montado em
-/dev/sda1        19G  1,3G   17G   8% /
-
-=== [TEMPERATURA] ===
-Sensores não disponíveis.
-
-----------------------------------------------------------------------
-Fim da execução: 13:55:45
-----------------------------------------------------------------------
-
-======================================================================
-RELATÓRIO: MonitorSys (production)
-Data: 2026-01-12 | Hora: 13:56:00
-Hostname: devops-debian
-======================================================================
-
-=== [CPU] ===
-Load Average: 0,19, 0,09, 0,02
-
-=== [MEMÓRIA] ===
-Mem.:          3,8Gi       568Mi       2,6Gi       1,7Mi       913Mi       3,2Gi
-Swap:          1,1Gi          0B       1,1Gi
-
-=== [DISCO] ===
-Sist. Arq.      Tam. Usado Disp. Uso% Montado em
-/dev/sda1        19G  1,3G   17G   8% /
-
-=== [TEMPERATURA] ===
-Sensores não disponíveis.
-
-----------------------------------------------------------------------
-Fim da execução: 13:56:00
-----------------------------------------------------------------------
-
-======================================================================
-RELATÓRIO: MonitorSys (production)
-Data: 2026-01-12 | Hora: 14:12:11
-Hostname: devops-debian
-======================================================================
-
-=== [CPU] ===
-Load Average: 0,06, 0,04, 0,00
-
-=== [MEMÓRIA] ===
-Mem.:          3,8Gi       563Mi       2,6Gi       1,7Mi       913Mi       3,2Gi
-Swap:          1,1Gi          0B       1,1Gi
-
-=== [DISCO] ===
-Sist. Arq.      Tam. Usado Disp. Uso% Montado em
-/dev/sda1        19G  1,3G   17G   8% /
-
-=== [TEMPERATURA] ===
-Sensores não disponíveis.
-
-----------------------------------------------------------------------
-Fim da execução: 14:12:11
-----------------------------------------------------------------------
-
-======================================================================
-RELATÓRIO: MonitorSys (production)
-Data: 2026-01-12 | Hora: 14:34:15
-Hostname: devops-debian
-======================================================================
-
-=== [CPU] ===
-Load Average: 0,06, 0,04, 0,00
-
-=== [MEMÓRIA] ===
-Mem.:          3,8Gi       561Mi       2,7Gi       1,7Mi       913Mi       3,2Gi
-Swap:          1,1Gi          0B       1,1Gi
-
-=== [DISCO] ===
-Sist. Arq.      Tam. Usado Disp. Uso% Montado em
-/dev/sda1        19G  1,3G   17G   8% /
-
-=== [TEMPERATURA] ===
-Sensores não disponíveis.
-
-----------------------------------------------------------------------
-Fim da execução: 14:34:15
-----------------------------------------------------------------------
-
-======================================================================
-RELATÓRIO: MonitorSys (production)
-Data: 2026-01-12 | Hora: 14:46:10
-Hostname: devops-debian
-======================================================================
-
-=== [CPU] ===
-Load Average: 0,11, 0,05, 0,01
+Load Average: 0,00, 0,02, 0,00
 Detalhes de CPU indisponíveis via Top.
 
 === [MEMÓRIA] ===
-Mem.:          3,8Gi       561Mi       2,7Gi       1,7Mi       914Mi       3,2Gi
+Mem.:          3,8Gi       567Mi       2,6Gi       1,7Mi       914Mi       3,2Gi
 Swap:          1,1Gi          0B       1,1Gi
 
 === [DISCO] ===
@@ -116,6 +20,6 @@ Sist. Arq.      Tam. Usado Disp. Uso% Montado em
 Sensores não disponíveis.
 
 ----------------------------------------------------------------------
-Fim da execução: 14:46:10
+Fim da execução: 14:51:26
 ----------------------------------------------------------------------
 
