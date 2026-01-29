@@ -1,0 +1,39 @@
+======================================================================
+RELATÓRIO: MonitorSys (production)
+Data: 2026-01-29 | Hora: 10:00:01
+Hostname: DEALNOTE0235
+======================================================================
+
+=== [CPU] ===
+Load Average: 0.17, 0.16, 0.11
+Uso: 1.2% user, 2.3% system, 96.5% idle
+
+=== [MEMÓRIA] ===
+Mem:           9.6Gi       1.9Gi       6.3Gi        14Mi       1.6Gi       7.7Gi
+Swap:          3.0Gi          0B       3.0Gi
+
+=== [DISCO] ===
+Filesystem      Size  Used Avail Use% Mounted on
+none            4.8G     0  4.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+drivers         238G  163G   76G  69% /usr/lib/wsl/drivers
+/dev/sdd       1007G   26G  931G   3% /
+none            4.8G     0  4.8G   0% /usr/lib/wsl/lib
+rootfs          4.8G  2.7M  4.8G   1% /init
+none            4.8G   76K  4.8G   1% /mnt/wslg/versions.txt
+none            4.8G   76K  4.8G   1% /mnt/wslg/doc
+C:\             238G  163G   76G  69% /mnt/c
+snapfuse         64M   64M     0 100% /snap/core20/2686
+snapfuse        333M  333M     0 100% /snap/code/220
+snapfuse        333M  333M     0 100% /snap/code/219
+snapfuse         74M   74M     0 100% /snap/core22/2193
+snapfuse         74M   74M     0 100% /snap/core22/2216
+snapfuse         49M   49M     0 100% /snap/snapd/25935
+snapfuse         42M   42M     0 100% /snap/trivy/276
+
+=== [TEMPERATURA] ===
+Sensores não disponíveis.
+
+----------------------------------------------------------------------
+Fim da execução: 10:00:01
+----------------------------------------------------------------------
+
