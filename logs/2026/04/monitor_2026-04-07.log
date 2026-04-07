@@ -1,0 +1,42 @@
+======================================================================
+RELATÓRIO: MonitorSys (production)
+Data: 2026-04-07 | Hora: 10:00:01
+Hostname: DEALNOTE0235
+======================================================================
+
+=== [CPU] ===
+Load Average: 0.42, 0.31, 0.15
+Uso: 2.3% user, 2.3% system, 93.2% idle
+
+=== [MEMÓRIA] ===
+Mem:           9.6Gi       2.5Gi       4.2Gi        34Mi       3.1Gi       7.1Gi
+Swap:          3.0Gi          0B       3.0Gi
+
+=== [DISCO] ===
+Filesystem      Size  Used Avail Use% Mounted on
+none            4.8G     0  4.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+drivers         238G  213G   25G  90% /usr/lib/wsl/drivers
+/dev/sdd       1007G   37G  920G   4% /
+none            4.8G     0  4.8G   0% /usr/lib/wsl/lib
+rootfs          4.8G  2.7M  4.8G   1% /init
+none            4.8G   76K  4.8G   1% /mnt/wslg/versions.txt
+none            4.8G   76K  4.8G   1% /mnt/wslg/doc
+C:\             238G  213G   25G  90% /mnt/c
+snapfuse         49M   49M     0 100% /snap/snapd/26382
+snapfuse         49M   49M     0 100% /snap/snapd/25935
+snapfuse         74M   74M     0 100% /snap/core22/2411
+snapfuse         74M   74M     0 100% /snap/core22/2339
+snapfuse        359M  359M     0 100% /snap/code/231
+snapfuse         64M   64M     0 100% /snap/core20/2717
+snapfuse         64M   64M     0 100% /snap/core20/2769
+snapfuse        437M  437M     0 100% /snap/google-cloud-cli/442
+snapfuse         42M   42M     0 100% /snap/trivy/276
+snapfuse        361M  361M     0 100% /snap/code/232
+
+=== [TEMPERATURA] ===
+Sensores não disponíveis.
+
+----------------------------------------------------------------------
+Fim da execução: 10:00:01
+----------------------------------------------------------------------
+
